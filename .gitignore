@@ -1,0 +1,45 @@
+# User-specific files
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+
+# App packaging
+*.ipa
+*.dSYM/
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+
+# Xcode IDE config files
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Xcode scheme files
+*.xcscheme
+*.xccheckout
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Archive files
+*.xcarchive
+
+# macOS specific
+.DS_Store
+.idea/
+
+# Temporary files
+*.swp
+*~
